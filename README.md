@@ -3,7 +3,7 @@
 ![Gameplay Screenshot](link_to_your_gameplay_screenshot.gif) 
 <!-- TODO: Replace this with a link to a cool GIF of your game! -->
 
-**Play the game live here:** [https://your-username.github.io/pixel-vengeance/](https://your-username.github.io/pixel-vengeance/)
+**Play the game live here:** [https://bytetrooper.github.io/pixel_vengeance_web_game/](https://bytetrooper.github.io/pixel_vengeance_web_game/)
 <!-- TODO: Replace this with your actual live game URL! -->
 
 ---
